@@ -27,6 +27,13 @@
     "editor": "cpp",
     "format": "cpp"
   },
+  "c": {
+    "show": "C",
+    "highlight": "c",
+    "version": "GCC 9.3.0",
+    "editor": "c",
+    "format": "c"
+  },
   "python3": {
     "show": "Python 3",
     "highlight": "python",
